@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ariska Febrilianti</h1>
 <h3 align="center">A passionate frontend developer from Indonesia. Being an agriculture graduate does not prevent me from learning new things, such as programming languages.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariskafebrilianti" alt="ariskafebrilianti" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend Developer in @progate**
 
-- 📫 How to reach me **arskfbr@gmail.com link**
+- 📫 How to reach me **arskfbr@gmail.com**
+
+- ⚡ Fun fact **I'am a cat lover 😺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
