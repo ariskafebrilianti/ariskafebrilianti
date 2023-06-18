@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariska Febrilianti</h1>
 <h3 align="center">A passionate frontend developer from Indonesia. Being an agriculture graduate does not prevent me from learning new things, such as programming languages.</h3>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=571183165400297597" height="532" width="345" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=571183165400297597" height="532" width="345" frameborder="0" scrolling="no" >
 
 - 🌱 I’m currently learning **Frontend Developer in @progate**
 
