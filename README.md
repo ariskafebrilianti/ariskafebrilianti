@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front-end developer from Indonesia. Despite being an agriculture graduate, this never prevented me from acquiring new skills, such as programming.</h3>
 
 
-- 🌱 I’m currently learning **Frontend Developer in @progate**
+- 🌱 I’m currently learning **Frontend Development in @progate**
 
 - 📫 How to reach me **arskfbr@gmail.com**
 
