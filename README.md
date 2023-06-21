@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **arskfbr@gmail.com**
 
-- ⚡ Fun fact **I'am a cat lover 😺**
+- ⚡ Fun fact **I graduated from the Faculty of Agriculture🌾, Land Resource Planning Study Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
